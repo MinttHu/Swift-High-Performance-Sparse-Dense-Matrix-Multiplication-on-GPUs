@@ -86,8 +86,11 @@ cd MTX_samples
 15 ./Run_SOTA_ncu.sh /home/hjy/Swift/MTX_samples /home/hjy/Swift/DataProcess/SOTA_ncu test_mtx_list.txt
 
 ## F How to run large scale of test:
+
 1 Down load the dataset of sparse matrix (Section H)
+
 2 Change the direct to dataset
+
 3 Replace the test_mtx_list.txt to mtxlist.txt for 1-8,10-14 in Section E
 
 ## G The function of the other script in script file:
