@@ -30,6 +30,7 @@ SOTA_method_compile.sh
 
 ## Download test matrix dataset
 cd MTX_samples
+
 ./Data_get.sh
 
 
@@ -40,7 +41,8 @@ cd MTX_samples
 2 ./compile.sh
 
 ## C How to compile SOTA method:
-git clone --recursive https://github.com/CRAFT-THU/RoDe.git
+1 git clone --recursive https://github.com/CRAFT-THU/RoDe.git
+
 2 ./SOTA_method_compile.sh
 
 
